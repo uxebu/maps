@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Custom builds of OpenLayers 3",
   "homepage": "https://github.com/planetlabs/maps",
+  "main": "dist/ol-base.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/planetlabs/maps.git"
